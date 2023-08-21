@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap");
+.App {
+  font-family: "Tilt Prism", cursive;
+  text-align: center;
+}
+
+input {
+  margin: 1rem;
+  padding: 1rem 7rem;
+  padding-inline-start:0.5rem;
+}
+body {
+  background-color: #fdf6b2;
+}
