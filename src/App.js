@@ -7,7 +7,11 @@ const emojiDictionary = {
   "😱": "Face Screaming in Fear",
   "💦": "Sweat Droplets",
   "❣️": "Heart Exclamation",
-  "💀": "Skull"
+  "💀": "Skull",
+  "😏": "Smirking Face",
+  "🍚": " Cooked Rice",
+  "🍳": "Cooking"
+};
 };
 // console.log(Object.keys(emojiDictionary));
 const emojisweknow = Object.keys(emojiDictionary);
